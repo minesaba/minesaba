@@ -8,7 +8,7 @@ Soy **profesional de las ciencias jurídicas y políticas**, **docente** y **edi
 - **Edición**: Experiencia en la edición de textos académicos, técnicos y otros contenidos.
 - **Programación**: Fascinada por la creación de soluciones digitales, principalmente en **Python**.
 - **Ciencia de Datos**: Explorando el análisis de datos, la visualización y el uso de modelos predictivos.
-- **Ciencias Jurídicas y Políticas**: Experiencia en la elaboración de software para la actividad jurídica y en la evaluación de datos en la investigación de políticas públicas.
+- **Ciencias Jurídicas y Políticas**: Experiencia en la elaboración de software para la actividad jurídica y en el análisis de datos para la investigación.
 
 ## 🌱 Siempre aprendiendo
 
