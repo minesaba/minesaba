@@ -12,7 +12,7 @@ Soy **profesional de las ciencias jurídicas y políticas**, **docente** y **edi
 
 ## 🌱 Siempre aprendiendo
 
-A pesar de tener una formación sólida en ciencias jurídicas y políticas, me encuentro en una constante **búsqueda de conocimiento**. Me encanta aprender nuevas herramientas y lenguajes, especialmente en el campo de la programación y la ciencia de datos. Actualmente, estoy perfeccionando mis habilidades en:
+Más allá de mi formación académica en las ciencias jurídicas y políticas, me encuentro en una constante **búsqueda de conocimiento**. Me encanta aprender nuevas herramientas y lenguajes, especialmente en el campo de la programación y la ciencia de datos. Actualmente, estoy perfeccionando mis habilidades en:
 
 - **Análisis de datos** con Python
 - **Visualización de datos** con herramientas como **Looker Studio** y **PowerBI**.
