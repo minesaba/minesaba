@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy María Inés
 
-Soy **profesional de las ciencias jurídicas** y **políticas**, **docente** y **editora**, apasionada por el mundo de la **programación**, la **ciencia de datos** y la **inteligencia artificial**. Siempre estoy en la búsqueda de aprender y mejorar, por lo que me considero una **aprendiz permanente**.
+Soy **profesional de las ciencias jurídicas y políticas**, **docente** y **editora**, con trayectoria en **docencia** y **edición**, actualmente enfocada en la **programación**, la **ciencia de datos** y la **inteligencia artificial**. Siempre estoy en la búsqueda de aprender y mejorar, por lo que me considero una **aprendiz permanente**.
 
 ## 🧠 Áreas de interés y experiencia:
 
