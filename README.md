@@ -8,7 +8,7 @@ Soy **profesional de las ciencias jurídicas y políticas**, **docente** y **edi
 - **Edición**: Experiencia en la edición de textos académicos, técnicos y otros contenidos.
 - **Programación**: Fascinada por la creación de soluciones digitales, principalmente en **Python**.
 - **Ciencia de Datos**: Explorando el análisis de datos, la visualización y el uso de modelos predictivos.
-- **Inteligencia artificial**. Interesada en el diseño, entrenamiento y aplicación de **modelos de inteligencia artificial**. Actualmente me capacito a través de **Google Cloud Skills** Boost para profundizar en el desarrollo de soluciones inteligentes y en el uso de infraestructura en la nube.
+- **Inteligencia artificial**. Interesada en el diseño, entrenamiento y aplicación de **modelos de inteligencia artificial**. 
 - **Ciencias Jurídicas y Políticas**: Experiencia en la elaboración de software para la actividad jurídica y en el análisis de datos para la investigación.
 
 ## 🌱 Siempre aprendiendo
