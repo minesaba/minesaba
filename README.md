@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy María Inés
 
-Soy **profesional de las ciencias jurídicas y políticas**, con trayectoria en **docencia** y **edición**, actualmente enfocada en la **programación**, la **ciencia de datos** y la **inteligencia artificial**. Siempre estoy en la búsqueda de aprender y mejorar, por lo que me considero una **aprendiz permanente**.
+Soy **profesional de las ciencias jurídicas y políticas**, con experiencia en **docencia** y **lingüística**, actualmente enfocada en el campo de la **programación**, la **ciencia de datos** y la **inteligencia artificial**. Me encanta estudiar, aprender y mejorar, por lo que me considero una **aprendiz permanente**.
 
 ## 🧠 Áreas de interés y experiencia:
 
@@ -13,12 +13,12 @@ Soy **profesional de las ciencias jurídicas y políticas**, con trayectoria en 
 
 ## 🌱 Siempre aprendiendo
 
-Más allá de mi formación académica en las ciencias jurídicas y políticas, me encuentro en una constante **búsqueda de conocimiento**. Me encanta aprender nuevas herramientas y lenguajes, especialmente en el campo de la programación y la ciencia de datos. Actualmente, estoy perfeccionando mis habilidades en:
+Actualmente estoy perfeccionando mis habilidades en:
 
 - **Análisis de datos** con Python (librerías: Pandas, NumPy,Scikit-learn, etc.).
 - **Visualización de datos** con herramientas como **Looker Studio**.
 - **Modelos de Machine Learning** para aplicar a diversas problemáticas.
-- **Computación en la nube e inteligencia artificial**: Conocimiento en el uso de **Google Cloud** y **Vertex AI** para el desarrollo, entrenamiento y despliegue de modelos de machine learning, con especial interés en sus aplicaciones en las **ciencias sociales** y el **procesamiento del lenguaje natural**.
+- **Computación en la nube e inteligencia artificial**. Uso de **Google Cloud** y **Vertex AI** para el desarrollo, entrenamiento y despliegue de modelos de machine learning, con especial interés en sus aplicaciones en las **ciencias sociales** y el **procesamiento del lenguaje natural**.
 
 ## 🔗 Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/mariainesabarrateguif)
