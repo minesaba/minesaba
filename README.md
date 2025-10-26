@@ -18,7 +18,7 @@ Más allá de mi formación académica en las ciencias jurídicas y políticas, 
 - **Análisis de datos** con Python (librerías: Pandas, NumPy,Scikit-learn, etc.).
 - **Visualización de datos** con herramientas como **Looker Studio**.
 - **Modelos de Machine Learning** para aplicar a diversas problemáticas.
-- **Computación en la nube e inteligencia artificial**: Conocimiento en el uso de **Google Cloud** y **Vertex AI** para el desarrollo, entrenamiento y despliegue de modelos de machine learning, con especial interés en sus aplicaciones en las ciencias sociales y el procesamiento del lenguaje natural.
+- **Computación en la nube e inteligencia artificial**: Conocimiento en el uso de **Google Cloud** y **Vertex AI** para el desarrollo, entrenamiento y despliegue de modelos de machine learning, con especial interés en sus aplicaciones en las **ciencias sociales** y el **procesamiento del lenguaje natural**.
 
 ## 🔗 Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/mariainesabarrateguif)
