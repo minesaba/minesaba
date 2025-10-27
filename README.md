@@ -10,7 +10,7 @@ Soy **profesional de las ciencias jurídicas y políticas**, con experiencia en 
 - **Corrección de estilo y edición**. Experiencia en la producción, corrección y edición de textos académicos y técnicos. Especialización en **normas APA 7**.
 - **Docencia**. Experiencia en enseñanza y creación de contenidos educativos, con enfoque en **accesibilidad digital**.
 
-## 🌱 Siempre aprendiendo. Tecnologías y enfoques:
+## 💻 Siempre aprendiendo. Tecnologías y enfoques:
 
 - **Análisis de datos:** *Python* (*Pandas*, *NumPy*, *Scikit-learn*, entre otras librerías).  
 - **Visualización:** *Looker Studio* y otras herramientas.  
