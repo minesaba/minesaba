@@ -12,10 +12,10 @@ Soy **profesional de las ciencias jurídicas y políticas**, con experiencia en 
 
 ## 🌱 Siempre aprendiendo. Tecnologías y enfoques:
 
-- **Análisis de datos:** Python (Pandas, NumPy, Scikit-learn, entre otras librerías).  
-- **Visualización:** Looker Studio y otras herramientas.  
+- **Análisis de datos:** *Python* (*Pandas*, *NumPy*, *Scikit-learn*, entre otras librerías).  
+- **Visualización:** *Looker Studio* y otras herramientas.  
 - **Machine Learning:** Modelado y aplicación de algoritmos para el análisis de datos sociales y la predicción de tendencias.
-- **IA y computación en la nube:** Google Cloud y Vertex AI para el desarrollo, entrenamiento y despliegue de modelos con foco en el procesamiento del lenguaje natural.
+- **IA y computación en la nube:** *Google Cloud* y *Vertex AI* para el desarrollo, entrenamiento y despliegue de modelos con foco en el **procesamiento del lenguaje natural**.
 
 ## 🔗 Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/mariainesabarrateguif)
