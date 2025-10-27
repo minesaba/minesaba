@@ -4,12 +4,11 @@ Soy **profesional de las ciencias jurídicas y políticas**, con experiencia en 
 
 ## 🧠 Áreas de interés y experiencia:
 
-- **Programación y análisis funcional**. Motivada por la creación de soluciones digitales, principalmente en **Python**.
-- **Ciencia de Datos**. Explorando el análisis de datos, la visualización y el uso de modelos predictivos.
-- **Inteligencia artificial**. Interesada en el diseño, entrenamiento y aplicación de **modelos de inteligencia artificial**, especialmente en el área de los **modelos de lenguaje grandes (LLM)** y el **ajuste** o **fine-tuning** de modelos.
-- **Ciencias Jurídicas y Políticas**. Experiencia en el **diseño** y **prototipado de software** para la actividad jurídica y en el **análisis de datos** para la investigación académica.
-- **Corrección de estilo y edición**. Experiencia en la producción, corrección y edición de textos académicos, técnicos y otros contenidos. Especialización en **Normas APA 7**.
-- **Docencia**. Entusiasta de la enseñanza y de la creación de contenidos educativos.
+• **Programación y análisis funcional**. Aficionada a la creación de soluciones digitales. Experiencia en el **diseño y prototipado de software** para el ámbito jurídico.
+• **Ciencia de datos**. Formada en análisis, visualización y modelado predictivo de datos. Experiencia en **investigación académica (cuantitativa y cualitativa)**.
+• **Inteligencia artificial**. En proceso de capacitación en diseño, entrenamiento y aplicación de modelos de IA, especialmente en el área de los **modelos de lenguaje grandes (LLM)** y el **fine-tuning**.
+• **Corrección de estilo y edición**. Experiencia en la producción, corrección y edición de textos académicos y técnicos. Especialización en **normas APA 7**.
+• **Docencia**. Experiencia en enseñanza y creación de contenidos educativos, con enfoque en **accesibilidad digital**.
 
 ## 🌱 Siempre aprendiendo
 
